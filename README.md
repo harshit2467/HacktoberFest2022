@@ -34,22 +34,30 @@ git commit -m "Relevant message"
 ```
 - Then push 
 ```
-git push origin my-new-branch
+git push 
 ```
 
 - Create a new pull request from your forked repository
 
 
 ## Tips for contributors
+
 - PRs beyond our open issues are welcome but make sure your contributions are meaningful and beneficial to other users otherwise your PR may be closed and marked as ‘invalid’.
 - Issues before PRs. If you plan to make a contribution, please make sure there is an issue for it. You can either find an existing issue or open a new issue if none exists.
 - PRs fulfill all the required conditions will be labeled as "hacktoberfest-accepted" before merging.
+- If planning to Contribute a Code make sure it is not already present in the Repository
+- You can add any Coding Questions from any platform like **GFG , Leetcode , etc..** 
+- Pseudo Code is acceptable. 
+- Also Make sure to mention **Time Complexity and Space Complexcity**
+
 
 
 ## Ready to make a contribution? 
-If you’re working on an open issue, read the CONTRIBUTING.MD file in the repo to get specific guidelines on how to work on that repo. Ask to be assigned to that issue before you start working on it.
 
-If you’re building a demo app, writing a tutorial or blog post, fork the README.MD file in the erx21/HacktoberFest2022 repo and make PR with a link to what you’ve worked on and an email address we can reach out to you to claim your swag on.
+- All PRs accepted will be marked as ‘hacktoberfest-accepted’ by October 31st. 
 
-You will receive a review, comment, and approval by a member of the Pusher team within a couple of days. All PRs accepted by the team will be marked as ‘hacktoberfest-accepted’ by October 31st. 
+## Swags🔥🔥
+
+To qualify for the **official Limited Edition HacktoberFest Shirt**, you must make four Pull Requests(PRs) between 1st Oct and 31st Oct.
+First**40,000** participants who complete the challenge will earn a **T-Shirt**
 
